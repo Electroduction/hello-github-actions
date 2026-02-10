@@ -230,6 +230,212 @@
 
 ---
 
+## Bachelor's Degree Pairings with Cybersecurity M.S.
+
+*Which WGU bachelor's degree should you combine with the Cybersecurity & Information Assurance M.S. for maximum earning potential?*
+
+### WGU Bachelor's Programs Available (School of Technology)
+
+| Program | Tuition/Term | Courses | Avg Completion | Key Certs Included |
+|---|---|---|---|---|
+| **Software Engineering B.S.** | $4,125 | 36-38 | 35 months | ITIL, AWS Cloud Practitioner, CompTIA Project+, CAPM, CAL 1 |
+| **Cloud & Network Engineering B.S.** | $3,915 | 34-37 | 36 months | AWS CCP, AWS SysOps Admin, CompTIA A+/Net+/Sec+/Cloud+, LPI Linux, ITIL (up to 9 certs) |
+| **Computer Science B.S.** | $4,125 | 37 | 25 months | Linux cert, ITIL 4 Foundation (ABET accredited) |
+| **Data Analytics B.S.** | $3,875 | 39 | 36 months | Udacity Nanodegree, CompTIA Data+, CompTIA Project+, AWS CCP |
+| **Cybersecurity & Info Assurance B.S.** | $4,410 | 34 | 29 months | 16 certs: CCSP, SSCP, CySA+, PenTest+, CompTIA A+/Net+/Sec+/Project+, ITIL, and more |
+| **Information Technology B.S.** | $3,760 | 35 | 39 months | CompTIA A+/Net+/Sec+/Cloud+ (stackable combos) |
+
+---
+
+### Combined Roles: Cybersecurity + [Bachelor's Field] Salary Data
+
+The real power play is pairing a bachelor's in a complementary field with the Cybersecurity M.S. to unlock **hybrid roles** that pay significantly more than either field alone.
+
+#### Hybrid Role Salary Comparison
+
+| Combined Role | Bachelor's Pairing | Avg Salary | Top Earners (90th%) | Senior Level |
+|---|---|---|---|---|
+| **DevSecOps Engineer** | Software Engineering | $181,236 | $296,655 | $218,084 (Sr. avg) |
+| **Cloud Security Architect** | Cloud & Network Eng. | $192,831 | $290,290 | $170K-$220K |
+| **Cybersecurity Data Scientist** | Data Analytics | $165,018-$185,796 | $291,600 | $153K-$234K |
+| **Application Security Engineer** | Software Engineering | $138,117 | $325K-$405K (top co.) | $172K+ |
+| **Security Engineer** | Computer Science | $158,400 | $246,017 | $160K-$200K |
+| **Cyber Security Software Engineer** | Software Engineering | $122,890 | $151,500 | Varies |
+| **Security Analyst (baseline)** | Cybersecurity B.S. | $124,910 | $186,420 | $157K-$175K |
+
+---
+
+### Ranking: Best Bachelor's to Pair with Cybersecurity M.S.
+
+#### #1: Software Engineering B.S. + Cybersecurity M.S. (RECOMMENDED)
+
+**Unlocks:** DevSecOps Engineer, Application Security Engineer, Security Architect
+
+| Metric | Value |
+|---|---|
+| Combined Avg Salary | $181,236 (DevSecOps) |
+| Senior DevSecOps | $218,084 avg, up to $351,284 |
+| Top Company Ceiling | $325K-$405K (OpenAI AppSec) |
+| DevSecOps Demand Growth | 22% year-over-year |
+| Est. Total Tuition (BS+MS) | ~$38,000-$42,000 |
+| Combined Certs | ITIL, AWS CCP, Project+, CAPM, CAL 1 + CySA+, PenTest+, CASP+, CISM, CC |
+
+**Why this is #1:**
+- DevSecOps is the **highest-paying non-executive cybersecurity role** ($181K avg, $351K ceiling)
+- DevSecOps demand grew **22% year-over-year** — fastest in the cybersecurity space
+- Software engineering skills (CI/CD, coding, architecture) + security expertise = rare combination that commands premium pay
+- You can build the secure systems AND break them — employers pay heavily for this
+- Skills like Terraform, Kubernetes, and CI/CD automation boost salary by **20-40%** on top of base
+- The Software Engineering M.S. has an **AI Engineering specialization** — AI + Security is the next frontier
+
+**Career Path:** Junior Dev → Security-focused Developer → DevSecOps Engineer ($181K) → Senior DevSecOps ($218K) → Principal/Staff Security Engineer ($250K+) → CISO ($220K-$420K+)
+
+---
+
+#### #2: Cloud & Network Engineering B.S. + Cybersecurity M.S.
+
+**Unlocks:** Cloud Security Architect, Cloud Security Engineer, Network Security Architect
+
+| Metric | Value |
+|---|---|
+| Cloud Security Architect Avg | $192,831 |
+| Top Earners | $290,290 (90th percentile) |
+| Cloud Security Engineer Avg | $152,773 |
+| Cloud Security Spending Growth | 18% annually |
+| Est. Total Tuition (BS+MS) | ~$36,000-$40,000 |
+| Combined Certs | Up to 9 cloud/network certs + 5 security certs = **14 certifications** |
+
+**Why this is #2:**
+- Cloud Security Architect has the **highest average salary** of any hybrid role ($193K)
+- Cloud is where all infrastructure is moving — security follows
+- **14 combined certifications** (most of any pairing) — massive resume value
+- AWS/Azure specializations directly align with cloud security roles
+- CCSP from the Cyber B.S. would stack with cloud certs for maximum impact
+- Lowest bachelor's tuition ($3,915/term) keeps costs down
+
+**Why it's not #1:** Cloud security roles have fewer openings than DevSecOps. The ceiling is slightly lower. Cloud architecture is more niche — you're locked into infrastructure-focused roles.
+
+---
+
+#### #3: Computer Science B.S. + Cybersecurity M.S.
+
+**Unlocks:** Security Engineer, Security Researcher, Malware Analyst, Cryptographer
+
+| Metric | Value |
+|---|---|
+| Security Engineer Avg | $158,400 |
+| Top Earners | $246,017 (90th percentile) |
+| Research Scientist Salary | $140,910 median |
+| Job Growth (CS roles) | 15-20% |
+| Est. Total Tuition (BS+MS) | ~$38,000-$42,000 |
+| ABET Accredited | Yes (only ABET program at WGU) |
+
+**Why this is #3:**
+- **ABET accreditation** is unique and valued by government/defense employers
+- Deepest theoretical foundation (algorithms, data structures, OS) = best for security research
+- Most versatile — if you pivot away from security, CS opens every door
+- Government and defense contractors (high clearance = high pay) prefer CS + security
+- Fastest bachelor's completion (25 months avg)
+
+**Trade-off:** Less specialized than Software Engineering for DevSecOps roles. Fewer included certs. More theoretical, less applied.
+
+---
+
+#### #4: Data Analytics B.S. + Cybersecurity M.S.
+
+**Unlocks:** Cybersecurity Data Scientist, Threat Intelligence Analyst, Security Analytics Lead
+
+| Metric | Value |
+|---|---|
+| Cybersecurity Data Scientist Avg | $165,018-$185,796 |
+| Top Earners | $291,600 (90th percentile) |
+| Cyber Data Analyst | $99,400 avg |
+| Data Scientist Growth | 34% |
+| Est. Total Tuition (BS+MS) | ~$37,000-$41,000 |
+
+**Why this could be valuable:**
+- Cybersecurity Data Scientists earn a **$30K-$50K premium** over standalone data scientists or security analysts
+- Threat intelligence and security analytics are growing rapidly
+- AI/ML applied to security (anomaly detection, threat prediction) is a frontier field
+- 34% growth rate in data science + 29% in cybersecurity = double tailwind
+
+**Why it's ranked #4:**
+- Fewer hybrid job openings compared to DevSecOps or Cloud Security
+- Entry-level combined roles (Cyber Data Analyst: $99K) pay less than other pairings
+- The path from data analyst to cybersecurity data scientist requires more niche positioning
+- Data Analytics B.S. has the most courses (39) — longest to complete
+
+---
+
+#### #5: Cybersecurity B.S. + Cybersecurity M.S. (Double Down)
+
+**Unlocks:** Deep specialization — Senior Analyst, Pen Tester, Security Consultant
+
+| Metric | Value |
+|---|---|
+| Combined Certs | 16 (B.S.) + 5 (M.S.) = **up to 21 certifications** |
+| Median Salary | $124,910 (same baseline) |
+| Est. Total Tuition (BS+MS) | ~$40,000-$44,000 |
+
+**Why you might consider it:**
+- **21 combined certifications** — the most of any path, period
+- Deepest security expertise possible
+- NSA/DHS Center of Academic Excellence designation
+- If you want to be a pure security specialist (pen testing, red team, security consulting)
+
+**Why it's ranked last:**
+- No complementary skill set = no hybrid role premium
+- Same $124,910 median — you don't unlock a higher salary tier
+- Redundant coursework between B.S. and M.S.
+- Every other pairing opens doors that pure security alone does not
+
+---
+
+### Is Data Science/Analytics Useful with Cyber? YES, but with caveats.
+
+**The Good:**
+- Cybersecurity Data Scientists earn **$165K-$186K avg** — a clear premium
+- Threat intelligence and SIEM analytics are booming
+- AI-driven security (ML for anomaly detection) is a frontier with few qualified people
+- Every SOC generates massive data — someone needs to make sense of it
+
+**The Caveat:**
+- It's a **niche** hybrid role — fewer job postings than DevSecOps or Cloud Security
+- You need strong programming skills (Python, SQL) that the Data Analytics B.S. provides, but...
+- Software Engineering gives you those same programming skills PLUS the ability to build secure systems, which opens more doors
+
+**Verdict:** Data Analytics is a solid #4 pick. It's useful, pays well in combination, but **Software Engineering or Cloud Engineering give you more job options and higher average pay** when combined with cyber.
+
+---
+
+### Final Recommendation: Optimal Degree Path
+
+**Best overall combination:**
+
+> **Software Engineering B.S.** ($4,125/term) → **Cybersecurity M.S.** ($4,700/term)
+
+| Factor | Value |
+|---|---|
+| Target Role | DevSecOps Engineer / AppSec Engineer |
+| Average Salary | $181,236 |
+| Senior Salary | $218,084 |
+| Top Ceiling | $351K-$405K |
+| Demand Growth | 22% YoY |
+| Est. Total Cost | ~$38K-$42K for both degrees |
+| Total Certs | ~10 industry certifications |
+| Global Talent Gap | 3.4M+ unfilled cybersecurity positions |
+
+This combination gives you:
+1. The ability to **write code** (software engineering)
+2. The ability to **secure code** (cybersecurity)
+3. The ability to **automate security** (DevSecOps)
+4. The **highest non-executive salary** in cybersecurity
+5. The **fastest-growing hybrid role** (22% YoY demand increase)
+
+**Runner-up:** Cloud & Network Engineering B.S. → Cybersecurity M.S. if you prefer infrastructure over code, with the bonus of earning 14 certifications total and the highest single-role average ($193K for Cloud Security Architect).
+
+---
+
 ## Sources
 
 - [BLS - Information Security Analysts](https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm)
@@ -243,3 +449,14 @@
 - [Coursera - IT Manager Salary 2026](https://www.coursera.org/articles/it-manager-salary)
 - [Research.com - Cybersecurity Careers 2026](https://research.com/advice/cybersecurity-careers-skills-education-salary-job-outlook)
 - [Product School - PM Salaries 2026](https://productschool.com/blog/career-development/product-management-salaries-todays-economy)
+- [WGU - IT Bachelor's Programs](https://www.wgu.edu/online-it-degrees/bachelors-programs.html)
+- [WGU - Cloud & Network Engineering B.S.](https://www.wgu.edu/online-it-degrees/cloud-network-engineering-bachelors-program.html)
+- [WGU - Cybersecurity B.S.](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html)
+- [WGU - Software Engineering B.S.](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html)
+- [Glassdoor - DevSecOps Engineer Salary](https://www.glassdoor.com/Salaries/devsecops-engineer-salary-SRCH_KO0,18.htm)
+- [Glassdoor - Cloud Security Architect Salary](https://www.glassdoor.com/Salaries/cloud-security-architect-salary-SRCH_KO0,24.htm)
+- [Glassdoor - Cyber Security Engineer Salary](https://www.glassdoor.com/Salaries/cyber-security-engineer-salary-SRCH_KO0,23.htm)
+- [Glassdoor - Cyber Security Data Scientist Salary](https://www.glassdoor.com/Salaries/cyber-security-data-scientist-salary-SRCH_KO0,29.htm)
+- [ZipRecruiter - Cloud Security Engineer Salary](https://www.ziprecruiter.com/Salaries/Cloud-Security-Engineer-Salary)
+- [Practical DevSecOps - US Salaries 2026](https://www.practical-devsecops.com/devsecops-salaries-united-states-2026/)
+- [Nucamp - Top 10 Best-Paid Cybersecurity Jobs 2026](https://www.nucamp.co/blog/top-10-best-paid-cybersecurity-jobs-in-2026-highest-salary-roles-ranked)
