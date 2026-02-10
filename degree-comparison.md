@@ -436,6 +436,145 @@ This combination gives you:
 
 ---
 
+## How Valuable Are the Certifications?
+
+*Every WGU program includes industry certifications at no extra cost. But what are they actually worth?*
+
+### Certification Cost: What You'd Pay on Your Own
+
+| Certification | Exam Fee (retail) | Annual Maintenance | Total 3-Year Cost | Included In |
+|---|---|---|---|---|
+| **CompTIA A+** (2 exams) | $716 ($358 x2) | $75/3yr renewal | $791 | Cyber B.S., Cloud B.S., IT B.S. |
+| **CompTIA Network+** | $369 | $75/3yr | $444 | Cyber B.S., Cloud B.S., IT B.S. |
+| **CompTIA Security+** | $404 | $75/3yr | $479 | Cyber B.S., Cloud B.S., IT B.S. |
+| **CompTIA Cloud+** | $369 | $75/3yr | $444 | Cloud B.S., IT B.S. |
+| **CompTIA CySA+** | $425 | $75/3yr | $500 | Cyber B.S., Cyber M.S. |
+| **CompTIA PenTest+** | $425 | $75/3yr | $500 | Cyber B.S., Cyber M.S. |
+| **CompTIA CASP+/SecurityX** | $505 | $75/3yr | $580 | Cyber M.S. (optional voucher) |
+| **CompTIA Project+** | $369 | None (lifetime) | $369 | Cyber B.S., Cloud B.S., SE B.S. |
+| **CompTIA Data+** | $246 | $75/3yr | $321 | Data Analytics B.S. |
+| **ISACA CISM** | $575-$760 | $45-$85/yr | $710-$1,015 | Cyber M.S. (optional voucher) |
+| **(ISC)2 CCSP** | $599 | $135/yr | $1,004 | Cyber B.S. |
+| **(ISC)2 SSCP** | $249 | $135/yr | $654 | Cyber B.S. |
+| **(ISC)2 CC** | $199 (or free) | $50/yr | $349 | Cyber M.S. |
+| **ITIL 4 Foundation** | $314-$383 | None (3yr validity) | $314-$383 | Cloud B.S., SE B.S., CS B.S. |
+| **AWS Cloud Practitioner** | $100 | None (3yr recertify) | $100 | Cloud B.S., SE B.S., Data B.S. |
+| **AWS SysOps Admin (Assoc.)** | $150 | None (3yr) | $150 | Cloud B.S. (AWS spec.) |
+| **PMI CAPM** | $225-$300 | None (5yr validity) | $225-$300 | SE B.S., IT M.S., PM M.S. |
+| **Scrum Alliance CAL 1** | $400-$1,000 | $100/2yr | $450-$1,050 | IT M.S., PM M.S. |
+| **LPI Linux Essentials** | $120 | None (lifetime) | $120 | Cloud B.S. |
+
+---
+
+### Total Certification Value by Program
+
+| WGU Program | # of Certs | Est. Retail Exam Cost (if bought separately) | Salary Impact |
+|---|---|---|---|
+| **Cybersecurity B.S.** | 16 | **~$5,500-$6,200** | Highest cert value of any bachelor's |
+| **Cloud & Network Eng. B.S. (AWS)** | 9 | **~$2,800-$3,200** | Strong cloud + networking stack |
+| **Cybersecurity M.S.** | 5 | **~$2,130-$2,690** | High-value advanced security certs |
+| **IT B.S.** | 4+ (stackable) | **~$1,850-$2,100** | Solid foundation stack |
+| **Software Engineering B.S.** | 4-5 | **~$740-$1,800** | ITIL + AWS + PM certs |
+| **IT M.S.** | 2 | **~$625-$1,350** | CAPM + CAL 1 (management focus) |
+| **Product Management M.S.** | 2 | **~$625-$1,350** | CAPM + CAL 1 |
+| **Computer Science B.S.** | 2 | **~$434-$503** | Linux + ITIL |
+| **Data Analytics M.S.** | 0 | $0 | No certs included |
+| **Computer Science M.S.** | 0 | $0 | No certs included |
+| **Software Engineering M.S.** | 0 | $0 | No certs included |
+
+---
+
+### Salary Premium by Certification (What They Actually Add to Your Paycheck)
+
+| Certification | Avg Salary Premium | Dollar Increase | Who Values It Most |
+|---|---|---|---|
+| **CISM** | 10-15% | +$11,000-$23,000/yr | Employers hiring security managers, required for CISO track |
+| **CCSP** | ~20% | +$20,000-$28,000/yr | Cloud security roles, pairs with CISSP |
+| **CompTIA CASP+/SecurityX** | ~22% (CISSP-comparable) | +$15,000-$25,000/yr | Government, defense, DoD 8570 compliance |
+| **CompTIA CySA+** | ~15% | +$10,000-$18,000/yr | SOC analysts, security operations |
+| **CompTIA PenTest+** | ~12% | +$8,000-$15,000/yr | Penetration testers, red team |
+| **CompTIA Security+** | ~11% | +$7,000-$12,000/yr | Baseline for ALL security roles, DoD 8570 |
+| **AWS Cloud Practitioner** | $15K-$25K increase | +$15,000-$25,000/yr | Cloud roles, stepping stone to AWS Associate |
+| **ITIL 4 Foundation** | ~10-12% | +$7,000-$12,000/yr | IT service management, ITSM roles |
+| **CompTIA Network+** | ~8% (stacked) | +$5,000-$10,000/yr | Network admin, part of foundation stack |
+| **CompTIA A+** | 5-15% | +$2,000-$8,000/yr | Entry-level IT, help desk, field tech |
+| **PMI CAPM** | 5-33% | +$3,000-$20,000/yr | Project coordination, PM entry |
+| **CompTIA Cloud+** | ~15% (advanced) | +$10,000-$15,000/yr | Cloud admin, hybrid infra roles |
+| **SSCP** | ~15% | +$8,000-$14,000/yr | Entry-mid security, complements Security+ |
+| **(ISC)2 CC** | TBD (too new) | Modest at entry | Entry-level security, pathway to CISSP |
+| **Scrum Alliance CAL 1** | Varies | +$5,000-$15,000/yr | Agile leadership, scrum masters |
+
+---
+
+### Key Insight: Stacking Multiplies Value
+
+Certifications aren't just additive — they **multiply** when stacked:
+
+| Stack | Combined Premium | Why |
+|---|---|---|
+| **A+ → Network+ → Security+** ("CompTIA Trifecta") | 35% more than single-cert holders | Proves full-stack IT foundation |
+| **Security+ → CySA+ → PenTest+** | Opens $90K-$130K roles | Progressive security specialization |
+| **Security+ → CySA+ → CASP+** | Opens $120K-$170K roles | Management + advanced security |
+| **AWS CCP → AWS SysOps → Cloud+** | Opens $110K-$150K roles | Cloud infrastructure mastery |
+| **Security+ → CCSP → CISM** | Opens $140K-$190K roles | Security management + cloud governance |
+
+Professionals holding **3+ certifications** earn an average of **35% more** than single-cert holders.
+
+---
+
+### Are They Worth It? The Verdict by Program
+
+#### Cybersecurity B.S. Certs: EXTREMELY Valuable
+- **$5,500-$6,200** in exam fees included free
+- 16 certifications = strongest cert portfolio in any WGU program
+- CCSP ($599 exam) and SSCP ($249) alone justify a full tuition term
+- Security+ is required for DoD 8570 compliance (mandatory for government/defense jobs)
+- Stacked certs open doors that degrees alone cannot
+
+#### Cybersecurity M.S. Certs: HIGH Value
+- **$2,130-$2,690** in exam fees included free
+- CySA+ and PenTest+ are mid-career differentiators
+- CASP+/SecurityX optional voucher is the most advanced CompTIA cert (~$505 value)
+- CISM optional voucher is one of the highest-paying security certifications ($156K avg salary for holders)
+- These are NOT entry-level certs — they have real weight on a resume
+
+#### Cloud & Network Eng. B.S. Certs: HIGH Value
+- **$2,800-$3,200** in exam fees included free
+- AWS certifications have the **highest direct salary impact** ($15K-$25K increase)
+- The AWS + CompTIA cloud stack is immediately marketable
+- Cloud certs have the fastest ROI — employers actively screen for them
+
+#### IT M.S. / PM M.S. Certs: MODERATE Value
+- **$625-$1,350** in exam fees included free
+- CAPM is a stepping stone to PMP (the gold standard PM cert)
+- CAL 1 is niche but valued in Agile environments
+- Lower raw cert value, but management certs support management salary track
+
+#### CS B.S., CS M.S., Data Analytics M.S., SE M.S. Certs: LOW to NONE
+- Computer Science and Data Analytics master's include **zero certifications**
+- CS B.S. includes only Linux + ITIL (~$434-$503 value)
+- These programs rely on the degree itself, not certifications, for marketability
+- For CS/SE roles, portfolios and GitHub projects often matter more than certs
+
+---
+
+### Bottom Line: Cert Value Ranking
+
+| Rank | Program | Cert $ Value | Certs Earned | Salary Impact |
+|---|---|---|---|---|
+| 1 | **Cybersecurity B.S.** | $5,500-$6,200 | 16 | Massive — opens government, defense, enterprise |
+| 2 | **Cloud & Network Eng. B.S.** | $2,800-$3,200 | 9 | High — AWS certs = immediate salary boost |
+| 3 | **Cybersecurity M.S.** | $2,130-$2,690 | 5 | High — advanced certs for career advancement |
+| 4 | **IT B.S.** | $1,850-$2,100 | 4+ | Solid — stackable CompTIA foundation |
+| 5 | **Software Engineering B.S.** | $740-$1,800 | 4-5 | Moderate — ITIL + AWS + PM |
+| 6 | **IT M.S. / PM M.S.** | $625-$1,350 | 2 | Moderate — management-focused |
+| 7 | **CS B.S.** | $434-$503 | 2 | Low — degree carries more weight |
+| 8 | **Data Analytics M.S. / CS M.S. / SE M.S.** | $0 | 0 | None — degree-only value |
+
+**The Cybersecurity B.S. + Cybersecurity M.S. combination yields up to 21 certifications worth $7,600-$8,900 in exam fees alone.** Even the recommended Software Engineering B.S. + Cybersecurity M.S. combo gives you ~10 certifications worth $2,870-$4,490.
+
+---
+
 ## Sources
 
 - [BLS - Information Security Analysts](https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm)
@@ -460,3 +599,17 @@ This combination gives you:
 - [ZipRecruiter - Cloud Security Engineer Salary](https://www.ziprecruiter.com/Salaries/Cloud-Security-Engineer-Salary)
 - [Practical DevSecOps - US Salaries 2026](https://www.practical-devsecops.com/devsecops-salaries-united-states-2026/)
 - [Nucamp - Top 10 Best-Paid Cybersecurity Jobs 2026](https://www.nucamp.co/blog/top-10-best-paid-cybersecurity-jobs-in-2026-highest-salary-roles-ranked)
+- [StationX - CompTIA Certification Costs 2026](https://www.stationx.net/comptia-certifications-cost/)
+- [ISC2 - Exam Pricing](https://www.isc2.org/register-for-exam/isc2-exam-pricing)
+- [ISACA - CISM Certification](https://www.isaca.org/credentialing/cism)
+- [Infosec Institute - CISM Salary 2025](https://www.infosecinstitute.com/resources/cism/average-cism-salary/)
+- [Infosec Institute - CCSP Cost & Requirements](https://www.infosecinstitute.com/resources/ccsp/ccsp-certification-cost-requirements/)
+- [KnowledgeHut - ITIL Certification Cost 2026](https://www.knowledgehut.com/blog/it-service-management/itil-certification-cost)
+- [PMI - CAPM Certification](https://www.pmi.org/certifications/certified-associate-capm)
+- [Rosemet - CAPM Certification Cost 2025](https://www.rosemet.com/capm-certification-cost/)
+- [AWS - Certification Pricing](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Skillsoft - Top 11 CompTIA Certifications 2025](https://www.skillsoft.com/blog/the-11-most-popular-comptia-certifications-and-what-they-pay)
+- [Gururo - How CompTIA Certs Boost Salary](https://gururo.com/how-comptia-certifications-boost-salary-it-roles/)
+- [StationX - Security+ Salary 2026](https://www.stationx.net/comptia-security-plus-certification-salary/)
+- [PassItExams - Top 15 Cybersecurity Certifications](https://passitexams.com/articles/15-top-paying-cybersecurity-certifications/)
+- [Research.com - Cybersecurity Certification Costs 2026](https://research.com/degrees/how-much-do-cybersecurity-certifications-cost)
